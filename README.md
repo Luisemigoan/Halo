@@ -4,7 +4,7 @@ Bienvenido al **Halo Web Project**, donde voy a mejorar una página inicial en H
 
 Este proyecto es un trabajo en progreso que irá evolucionando, mejorando la estética, interactividad y funcionalidad con el paso del tiempo.
 
-![Halo Image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Halo_3_Logo.png/500px-Halo_3_Logo.png)
+![Halo Image](https://generacionxbox.com/wp-content/uploads/2023/01/halo-3.jpg)
 
 ## 🚨 Tecnologías utilizadas
 
