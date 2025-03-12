@@ -34,8 +34,9 @@ Este proyecto tiene como objetivo crear una página inspirada en el icónico uni
 
 ## 📜 Licencia
 
-Este proyecto está licenciado bajo la licencia **MIT**. Si tienes dudas, no dudes en contactarme.
+> **Este es un proyecto no oficial** basado en la franquicia de Halo. Halo es una propiedad de **Microsoft** y **343 Industries**. Este proyecto es solo con fines educativos y no tiene ningún propósito comercial.
+
 
 ---
 
-**¡Que la lucha en Halo comience!** 💥
+**"Las decisiones que tomas hoy, definirán el futuro." – Cortana** 💥
