@@ -1,6 +1,6 @@
 # 🚀 Halo Web Project
 
-Bienvenido a **Halo Web Project** Este repositorio está inspirado en el universo de **Halo** y tiene como objetivo crear una experiencia web relacionada con su mundo. A lo largo del desarrollo, se irán implementando tecnologías como **CSS**, **JavaScript** y otras herramientas para mejorar la estética, interactividad y funcionalidad.
+Bienvenido a **Halo Web Project** Este repositorio está inspirado en el universo de **Halo** y tiene como objetivo crear una landing page. A lo largo del desarrollo, se irán implementando tecnologías como **CSS**, **JavaScript** y otras herramientas para mejorar la estética, interactividad y funcionalidad.
 
 Este proyecto es un **trabajo en progreso** con fines **académicos**, diseñado para practicar y aplicar los conceptos aprendidos en el desarrollo front-end.
 
