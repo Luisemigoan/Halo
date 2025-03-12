@@ -1,6 +1,8 @@
-# Halo Project
+# Halo Project ![Halo Logo](images/halo_logo.png)
 
 ¡Bienvenido al proyecto **Halo**! Este proyecto está dedicado a la creación de una página web impresionante utilizando HTML, CSS, y JavaScript. A medida que avancemos, iremos mejorando y embelleciendo la página con nuevas tecnologías y características.
+
+![Halo Banner](images/halo_banner.jpg)
 
 ## Descripción
 
@@ -8,9 +10,9 @@ El objetivo de este proyecto es desarrollar una página web dedicada a la franqu
 
 ## Tecnologías Utilizadas
 
-- **HTML**: Para estructurar el contenido de la página.
-- **CSS**: Para estilizar y mejorar la apariencia visual.
-- **JavaScript**: Para añadir interactividad y dinamismo.
+- ![HTML Icon](images/html_icon.png) **HTML**: Para estructurar el contenido de la página.
+- ![CSS Icon](images/css_icon.png) **CSS**: Para estilizar y mejorar la apariencia visual.
+- ![JavaScript Icon](images/js_icon.png) **JavaScript**: Para añadir interactividad y dinamismo.
 - **Otras tecnologías**: A medida que el proyecto avance, se podrán incorporar otras tecnologías y herramientas para mejorar la página.
 
 ## Estructura del Proyecto
@@ -39,4 +41,3 @@ Este proyecto está bajo la licencia MIT. Para más detalles, consulta el archiv
 Si tienes alguna pregunta o sugerencia, no dudes en contactarnos a través de [correo electrónico](mailto:contacto@halo.com).
 
 ¡Gracias por tu interés en el proyecto Halo! ¡Esperamos tus contribuciones y sugerencias para hacer de esta página algo increíble!
-
