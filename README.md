@@ -1,8 +1,8 @@
 # 🚀 Halo Web Project
 
-Bienvenido al **Halo Web Project**, donde voy a mejorar una página inicial en HTML y la transformaré utilizando herramientas como **CSS**, **JavaScript**, y otras tecnologías para crear una experiencia web épica inspirada en el mundo de Halo. 
+Bienvenido a **Halo Web Project** Este repositorio está inspirado en el universo de **Halo** y tiene como objetivo crear una experiencia web relacionada con su mundo. A lo largo del desarrollo, se irán implementando tecnologías como **CSS**, **JavaScript** y otras herramientas para mejorar la estética, interactividad y funcionalidad.
 
-Este proyecto es un trabajo en progreso que irá evolucionando, mejorando la estética, interactividad y funcionalidad con el paso del tiempo.
+Este proyecto es un **trabajo en progreso** con fines **académicos**, diseñado para practicar y aplicar los conceptos aprendidos en el desarrollo front-end.
 
 ![Halo Image](https://generacionxbox.com/wp-content/uploads/2023/01/halo-3.jpg)
 
@@ -12,9 +12,9 @@ Este proyecto usa las siguientes tecnologías para mejorar la experiencia:
 
 - ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) **HTML5**: Estructura básica de la web.
 - ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) **CSS3**: Estilos y diseño visual para crear una experiencia más inmersiva.
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black) **JavaScript**: Interactividad en la página, efectos y funcionalidad dinámica.
+<!--- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black) **JavaScript**: Interactividad en la página, efectos y funcionalidad dinámica.
 - ![Sass](https://img.shields.io/badge/SASS-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white) **Sass**: Preprocesador CSS para facilitar el manejo de estilos.
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white) **Tailwind CSS**: Framework de utilidades para diseñar de forma rápida y eficaz.
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white) **Tailwind CSS**: Framework de utilidades para diseñar de forma rápida y eficaz.-->
 
 ## 🎮 ¿Qué es este proyecto?
 
